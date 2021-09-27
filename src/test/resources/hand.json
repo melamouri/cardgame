@@ -1,0 +1,44 @@
+{
+	"cards": [
+		{
+			"color": "CARREAUX",
+			"value": "SIX"
+		},
+		{
+			"color": "CARREAUX",
+			"value": "DIX"
+		},
+		{
+			"color": "TREFLE",
+			"value": "AS"
+		},
+		{
+			"color": "TREFLE",
+			"value": "DAME"
+		},
+		{
+			"color": "COEUR",
+			"value": "DAME"
+		},
+		{
+			"color": "COEUR",
+			"value": "VALET"
+		},
+		{
+			"color": "COEUR",
+			"value": "DIX"
+		},
+		{
+			"color": "PIQUE",
+			"value": "DAME"
+		},
+		{
+			"color": "COEUR",
+			"value": "ROI"
+		},
+		{
+			"color": "PIQUE",
+			"value": "DEUX"
+		}
+	]
+}
