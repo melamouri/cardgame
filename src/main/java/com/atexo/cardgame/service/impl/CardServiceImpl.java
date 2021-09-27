@@ -38,7 +38,6 @@ public class CardServiceImpl implements CardService {
             hand.getCards().add(c);
             packnCopie.remove(c);
         });
-        hand.getCards().forEach(System.out::println);
         return hand;
     }
 
@@ -86,7 +85,6 @@ public class CardServiceImpl implements CardService {
             randomList.add(baseEnum);
             copieOfEnumList.remove(baseEnum);
         });
-        randomList.forEach(System.out::println);
         return randomList;
     }
 
