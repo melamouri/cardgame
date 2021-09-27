@@ -1,0 +1,17 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+# Eclipse
+.project
+**/.settings/**
+**/.metadata/**
+.buildpath
+.classpath
+MavenDependencyTree.txt
+.checkstyle
+.mvn/**
+mvnw
+mvnw.cmd
+hs_err_pid*
